@@ -5,8 +5,18 @@ An AI-powered recruitment platform with a modular FastAPI backend and Streamlit 
 ## Team Members
 
 1. Reham Maher
+
+   
 2. Samaa Hossam
+
+
 3.Loai Serag
+
+
 4.Bassant Fekry
+
+
 5.fatma Wael
+
+
 6.Mahetab Mohamed 
